@@ -1,0 +1,212 @@
+[
+ {
+  "name": "MainClass.loadFolderFile()",
+  "startTime": 1557827643846,
+  "endTime": 1557827643863
+ },
+ {
+  "name": "jquery-ui-1.12.1.custom getDirectChildModels()",
+  "startTime": 1557827643850,
+  "endTime": 1557827643850
+ },
+ {
+  "name": "jquery-ui-1.12.1.custom AbstractFolderFile.init()",
+  "startTime": 1557827643850,
+  "endTime": 1557827643856
+ },
+ {
+  "name": "jquery-ui-1.12.1.custom getDirectChildModels()",
+  "startTime": 1557827643852,
+  "endTime": 1557827643853
+ },
+ {
+  "name": "JFolder.buildImplementation() jquery-ui-1.12.1.custom",
+  "startTime": 1557827643852,
+  "endTime": 1557827643856
+ },
+ {
+  "name": "external AbstractFolderFile.init()",
+  "startTime": 1557827643853,
+  "endTime": 1557827643855
+ },
+ {
+  "name": "external getDirectChildModels()",
+  "startTime": 1557827643854,
+  "endTime": 1557827643854
+ },
+ {
+  "name": "jquery AbstractFolderFile.init()",
+  "startTime": 1557827643854,
+  "endTime": 1557827643855
+ },
+ {
+  "name": "JFolder.buildImplementation() external",
+  "startTime": 1557827643854,
+  "endTime": 1557827643855
+ },
+ {
+  "name": "jquery getDirectChildModels()",
+  "startTime": 1557827643855,
+  "endTime": 1557827643855
+ },
+ {
+  "name": "JFolder.buildImplementation() jquery",
+  "startTime": 1557827643855,
+  "endTime": 1557827643855
+ },
+ {
+  "name": "FolderFileModel.fireScaleChangeEvent()",
+  "startTime": 1557827643857,
+  "endTime": 1557827643857
+ },
+ {
+  "name": "FolderFileModel.fireScaleChangeEvent()",
+  "startTime": 1557827643857,
+  "endTime": 1557827643857
+ },
+ {
+  "name": "null setVisible(true)",
+  "startTime": 1557827643857,
+  "endTime": 1557827643857
+ },
+ {
+  "name": "null invalidate()",
+  "startTime": 1557827643857,
+  "endTime": 1557827643857
+ },
+ {
+  "name": "null repaint()",
+  "startTime": 1557827643857,
+  "endTime": 1557827643858
+ },
+ {
+  "name": "null scaleChanged()",
+  "startTime": 1557827643857,
+  "endTime": 1557827643860
+ },
+ {
+  "name": "FolderFileModel.fireScaleChangeEvent()",
+  "startTime": 1557827643857,
+  "endTime": 1557827643860
+ },
+ {
+  "name": "null setVisible(true)",
+  "startTime": 1557827643860,
+  "endTime": 1557827643860
+ },
+ {
+  "name": "null invalidate()",
+  "startTime": 1557827643860,
+  "endTime": 1557827643860
+ },
+ {
+  "name": "null repaint()",
+  "startTime": 1557827643860,
+  "endTime": 1557827643860
+ },
+ {
+  "name": "null scaleChanged()",
+  "startTime": 1557827643860,
+  "endTime": 1557827643861
+ },
+ {
+  "name": "FolderFileModel.fireScaleChangeEvent()",
+  "startTime": 1557827643860,
+  "endTime": 1557827643861
+ },
+ {
+  "name": "FolderFileModel.fireScaleChangeEvent()",
+  "startTime": 1557827643861,
+  "endTime": 1557827643861
+ },
+ {
+  "name": "FolderFileModel.fireScaleChangeEvent()",
+  "startTime": 1557827643861,
+  "endTime": 1557827643861
+ },
+ {
+  "name": "FolderFileModel.fireScaleChangeEvent()",
+  "startTime": 1557827643861,
+  "endTime": 1557827643861
+ },
+ {
+  "name": "FolderFileModel.fireScaleChangeEvent()",
+  "startTime": 1557827643861,
+  "endTime": 1557827643861
+ },
+ {
+  "name": "FolderFileModel.fireScaleChangeEvent()",
+  "startTime": 1557827643861,
+  "endTime": 1557827643861
+ },
+ {
+  "name": "FolderFileModel.fireScaleChangeEvent()",
+  "startTime": 1557827643861,
+  "endTime": 1557827643861
+ },
+ {
+  "name": "FolderFileModel.fireScaleChangeEvent()",
+  "startTime": 1557827643862,
+  "endTime": 1557827643862
+ },
+ {
+  "name": "FolderFileModel.fireScaleChangeEvent()",
+  "startTime": 1557827643862,
+  "endTime": 1557827643862
+ },
+ {
+  "name": "FolderFileModel.fireScaleChangeEvent()",
+  "startTime": 1557827643862,
+  "endTime": 1557827643862
+ },
+ {
+  "name": "null setVisible(true)",
+  "startTime": 1557827643862,
+  "endTime": 1557827643862
+ },
+ {
+  "name": "null invalidate()",
+  "startTime": 1557827643862,
+  "endTime": 1557827643862
+ },
+ {
+  "name": "null repaint()",
+  "startTime": 1557827643862,
+  "endTime": 1557827643862
+ },
+ {
+  "name": "null scaleChanged()",
+  "startTime": 1557827643862,
+  "endTime": 1557827643862
+ },
+ {
+  "name": "FolderFileModel.fireScaleChangeEvent()",
+  "startTime": 1557827643862,
+  "endTime": 1557827643862
+ },
+ {
+  "name": "null setVisible(true)",
+  "startTime": 1557827643863,
+  "endTime": 1557827643863
+ },
+ {
+  "name": "null invalidate()",
+  "startTime": 1557827643863,
+  "endTime": 1557827643863
+ },
+ {
+  "name": "null repaint()",
+  "startTime": 1557827643863,
+  "endTime": 1557827643863
+ },
+ {
+  "name": "null scaleChanged()",
+  "startTime": 1557827643863,
+  "endTime": 1557827643863
+ },
+ {
+  "name": "FolderFileModel.fireScaleChangeEvent()",
+  "startTime": 1557827643863,
+  "endTime": 1557827643863
+ }
+]
